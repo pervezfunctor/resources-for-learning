@@ -85,6 +85,15 @@ You could also consider the following books for C# which would be fairly challen
 
 *.NET programmers too can consider learning bash from the above resources*. You could use [cmder](http://bliker.github.io/cmder)
 
+Resources for learning REST
+
+* <http://tomayko.com/writings/rest-to-my-wife>
+* [RMM - Martin Fowler](http://martinfowler.com/articles/richardsonMaturityModel.html)
+* [Ruby on Rails REST](http://guides.rubyonrails.org/routing.html)
+* [RESTful web services cookbook](http://www.amazon.com/RESTful-Web-Services-Cookbook-Scalability/dp/0596801688/ref=sr_1_1?ie=UTF8&qid=1401847075)
+* [Hypermedia APIs - Jon Moore](http://vimeo.com/20781278)
+* [Implementing an API in ASP.NET Web API](http://pluralsight.com/training/courses/TableOfContents?courseName=implementing-restful-aspdotnet-web-api)
+
 I will update this document with more resources in the coming days, please visit it often. :-)
 
 

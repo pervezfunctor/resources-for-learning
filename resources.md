@@ -63,6 +63,21 @@ If you already have some programming experience, you could learn from perhaps th
 
 * <http://pluralsight.com/training/Courses/TableOfContents/skeet-csharp4>
 
+Best resource for learning F# as a beginner
+
+* <http://fsharpforfunandprofit.com>
+* [Programming F# 3.0](http://www.amazon.com/Programming-F-3-0-Chris-Smith/dp/1449320295/ref=sr_1_1?ie=UTF8&qid=1401812931&sr=8-1)
+
+If you are interested in the functional aspects of F#, you would enjoy reading
+
+* [Functional Programming using F#](http://www.amazon.com/Functional-Programming-Using-Michael-Hansen/dp/1107684064/ref=sr_1_1?ie=UTF8&qid=1401813104&sr=8-1)
+
+A few more good F# esources
+
+* [Expert F# 3.0](http://www.amazon.com/Expert-3-0-Experts-Voice-Syme/dp/1430246502/ref=sr_1_1?ie=UTF8&qid=1401813161&sr=8-1)
+* [F# for C# Developers](http://www.amazon.com/F-C-Developers-Developer-Reference/dp/0735670269/ref=sr_1_10?ie=UTF8&qid=1401812931&sr=8-10)
+* [F# Succinctly(free)](https://www.syncfusion.com/resources/techportal/ebooks/fsharp)
+
 You could also consider the following books for C# which would be fairly challenging for begginers.
 
 * [C# in Depth](http://www.amazon.com/Depth-3rd-Edition-Jon-Skeet/dp/161729134X/ref=sr_1_1?ie=UTF8&qid=1400858744&sr=8-1)

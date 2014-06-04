@@ -87,10 +87,13 @@ You could also consider the following books for C# which would be fairly challen
 
 Resources for learning REST
 
+* <http://www.looah.com/source/view/2284>
 * [RMM - Martin Fowler](http://martinfowler.com/articles/richardsonMaturityModel.html)
 * [Ruby on Rails REST](http://guides.rubyonrails.org/routing.html)
 * [RESTful web services cookbook](http://www.amazon.com/RESTful-Web-Services-Cookbook-Scalability/dp/0596801688/ref=sr_1_1?ie=UTF8&qid=1401847075)
 * [Hypermedia APIs - Jon Moore](http://vimeo.com/20781278)
+* [Create a REST API with Attribute Routing in Web API 2](http://www.asp.net/web-api/overview/web-api-routing-and-actions/create-a-rest-api-with-attribute-routing)
+* [Designing Evolvable Web APIs with ASP.NET](http://www.amazon.com/Designing-Evolvable-Web-APIs-ASP-NET/dp/1449337716/ref=sr_1_sc_1?ie=UTF8&qid=1401849119)
 * [Implementing an API in ASP.NET Web API](http://pluralsight.com/training/courses/TableOfContents?courseName=implementing-restful-aspdotnet-web-api)
 
 I will update this document with more resources in the coming days, please visit it often. :-)

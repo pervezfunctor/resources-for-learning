@@ -29,11 +29,11 @@ In short almost every language today has some support for FP(except C). Most mod
 Some optional FP features
 
 * functions as first class citizens supporting composition
+* sum types and product types
 * pattern matching
 * lazy evaluation
 * persistent collections - vectors, maps, sets, lists
-* static typing - parametric and ad hoc polymorphism
-* support for representing data as data.
+* static typing - parametric and adhoc polymorphism
 
 ### .NET programmers
 
@@ -71,7 +71,8 @@ Have a look at coffeescript too! It makes FP more natural.
 * [Functional C++ blog](http://functionalcpp.wordpress.com)
 * [Boost.Range](http://www.boost.org/doc/libs/master/libs/range/doc/html/index.html)
 * [FTL](https://github.com/beark/ftl)
-
+* [Introduction to functional programming with C++ - youtube](https://www.youtube.com/watch?v=uHFUpFhWGJs)
+* [Functional data structures in C++ - youtube](https://www.youtube.com/watch?v=OsB09djvfl4)
 If you are interested in FP, and you don't mind learning another language, only that it should be fast and native, [Rust](http://doc.rust-lang.org/guide.html) is an excellent option, with immutable values as the default, support for pattern matching, functions as first class citizen and parametric and ad-hoc polymorphism. This goes to show how important FP has become, a native language created for writing safe performant code, supports FP out of the box.
 
 ###Everyone
